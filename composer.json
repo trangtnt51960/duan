@@ -1,0 +1,17 @@
+{
+    "name": "admin/chat-rom1",
+    "autoload": {
+        "psr-4": {
+            "Admin\\ChatRom1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trangtnt51960",
+            "email": "trangtntph51960@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
